@@ -10,7 +10,9 @@ nav ul a,
 nav .brand-logo {
   color: #444;
 }
-
+.new1{
+  width: 90% !important;
+}
 p {
   line-height: 2rem;
 }
